@@ -1,4 +1,4 @@
-The provided document outlines key performance indicators (KPIs) for analyzing pizza sales data. Here’s a summary of the metrics you want to calculate:
+# The provided document outlines key performance indicators (KPIs) for analyzing pizza sales data. Here’s a summary of the metrics you want to calculate:
 Total Revenue: The total of all pizza order prices.
 
 Average Order Value: This is calculated by dividing total revenue by the total number of orders.
